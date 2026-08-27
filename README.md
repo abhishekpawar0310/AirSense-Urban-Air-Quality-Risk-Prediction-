@@ -56,4 +56,4 @@ Data originally published by the Central Pollution Control Board (CPCB), Governm
 ## 👤 Author
 
 **Pawar Abhishek Kishor**
-BBA | Data Analytics & Machine Learning Enthusiast
+Msc Data Science | Data Analytics & Machine Learning Enthusiast
